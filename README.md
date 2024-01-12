@@ -16,3 +16,6 @@ Git is a version control system, while GitHub is a website that hosts Git reposi
 
  # Explain in simple terms git rebase and the command for it
   is a command that allows you to combine multiple commits into one single commit. It's sort of like taking a bunch of steps and turning them into one big step. It's useful for simplifying your commit history, and it's often used before merging your changes into a shared repository. The command for "git rebase" is "git rebase <branch>".
+
+# Explain in simple terms git cherry-pick and the command for it 
+  "Git cherry-pick" is a command that allows you to choose specific commits from one branch and apply them to another branch. It's like "copy and paste" for commits. The basic command is "git cherry-pick <commit>", where "<commit>" is the commit hash of the commit you want to cherry-pick. 
