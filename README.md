@@ -5,3 +5,8 @@ Version control is a system for tracking and managing changes to a set of files 
 
 # Explain difference between git and github
 Git is a version control system, while GitHub is a website that hosts Git repositories. So, Git is the tool you use to track changes to your files, and GitHub is a place where you can store your Git repositories online
+
+ # List 3 other github alternatives
+ -Bitbucket
+ -GitLab
+ -SourceForge
