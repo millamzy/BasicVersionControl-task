@@ -10,3 +10,6 @@ Git is a version control system, while GitHub is a website that hosts Git reposi
  -Bitbucket
  -GitLab
  -SourceForge
+
+# Explain the difference between git fetch and git pull,
+ The commands "git fetch" and "git pull" are both used to update your local repository with changes from a remote repository. However, they have different functions. "Git fetch" downloads new data from the remote repository, but it doesn't update your local repository. "Git pull" does both: it downloads new data and merges it with your local repository.
